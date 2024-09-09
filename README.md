@@ -1,5 +1,3 @@
-# Vision-Transformer-ViT-for-Image-Classification-on-MNIST-Dataset
-
 # Vision Transformer (ViT) for Image Classification on MNIST Dataset
 
 This project demonstrates the use of Vision Transformers (ViT) for image classification on the MNIST dataset. The ViT model is a type of Transformer model adapted for image classification tasks. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9).
